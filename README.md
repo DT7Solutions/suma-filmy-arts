@@ -4,10 +4,10 @@
 #install env
 #pip install virtualenv
 # create virtual environment
-#python -m venv env-magsmen
+#python -m venv env-suma
 
 # activate virtual environment
-#env-magsmen\Scripts\activate
+#env-suma\Scripts\activate
 
 # install libs
 pip freeze > requirements.txt 
